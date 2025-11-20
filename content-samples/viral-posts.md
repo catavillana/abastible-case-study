@@ -17,6 +17,14 @@ markdown
 
 *Example of our authentic Chilean family content that built deep community connections.*
 
+markdown
+### 🍰 Traditional Chilean Meringue Cake
+![Chilean Meringue Cake](../assets/chilean-meringue-cake.jpg)
+
+**2,000+ likes** | **High engagement** | **Cultural content**
+
+*Example of authentic recipe content I personally wrote, showcasing traditional Chilean cuisine that resonated deeply with our community.*
+
 **Who's guilty of leaving lipstick marks on our cheeks? Our lovely and adorable grandmas. Share this image if you love grandmothers' affection!**
 
 ## Why This Worked
