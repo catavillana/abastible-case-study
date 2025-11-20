@@ -9,7 +9,7 @@ markdown
 ### 🔥 "Neighborhood Traditions"  
 **620,000 reach** | **38,000 comments** | **8,500 shares**
 
-### ❤️ "We Love Our Grandmas" Campaign
+###👵 "We Love Our Grandmas" Campaign
 ![We Love Our Grandmas Campaign](../assets/grandmas-campaign.jpg)
 
 **Cultural relevance** | **Family values** | **Emotional storytelling**
