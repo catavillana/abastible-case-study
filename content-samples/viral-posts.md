@@ -11,7 +11,7 @@ markdown
 
 markdown
 ### 👵 "We Love Our Grandmas" Campaign
-![We Love Our Grandmas Campaign](../assets/grandmas-campaign.jpg)
+[We Love Our Grandmas Campaign](../assets/grandmas-campaign.jpg)
 
 **Cultural relevance** | **Family values** | **Emotional storytelling**
 
