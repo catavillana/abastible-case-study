@@ -18,7 +18,7 @@ markdown
 *Example of our authentic Chilean family content that built deep community connections.*
 
 markdown
-### 🍰 Traditional Chilean Meringue Cake
+### 🎂 Traditional Chilean Meringue Cake
 ![Chilean Meringue Cake](../assets/chilean-meringue-cake.jpg)
 
 **2,000+ likes** | **High engagement** | **Cultural content**
