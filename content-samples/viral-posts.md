@@ -16,16 +16,14 @@
 *Campaign highlighting authentic Chilean cuisine that achieved massive organic reach through cultural relevance.*
 
 
-### 👵 "We Love Our Grandmas" Campaign
+### 🎂 Traditional Chilean Merengue Cake
 ![Chilean Merengue Cake](../assets/chilean-merengue-cake.jpg)
 
-**Cultural relevance** | **Family values** | **Emotional storytelling**
-**Who's guilty of leaving lipstick marks on our cheeks? Our lovely and adorable grandmas. Share this image if you love grandmothers' affection!**
 **2,000+ likes** | **High engagement** | **Cultural content**
 
-*Example of authentic recipe content I personally wrote, showcasing traditional Chilean cuisine that resonated deeply with our community.*
-*Example of our authentic Chilean family content that built deep community connections.*
+*"Merengue and dulce de leche cake decorated with delicious colorful sprinkles... just like old times. Remember? Here's the recipe!"*
 
+*Authentic Chilean dessert content that generated high engagement through nostalgia and traditional flavors.*
 
 ### 🎂 Traditional Chilean Merengue Cake
 ![Chilean Merengue Cake](../assets/chilean-meringue-cake.jpg)
