@@ -25,6 +25,15 @@ markdown
 
 *Example of authentic recipe content I personally wrote, showcasing traditional Chilean cuisine that resonated deeply with our community.*
 
+### 🍲 Traditional Chilean Stew Campaign
+![Chilean Stew Campaign](../assets/traditional-chilean-stew-850k-reach.jpg)
+
+**850,000 reach** | **High engagement** | **Cultural authenticity**
+
+*"Not all stews are the same. Discover our traditional rib stew recipe here."*
+
+*Campaign highlighting authentic Chilean cuisine that achieved massive organic reach through cultural relevance.*
+
 ## Why This Worked
 - Cultural relevance to Chilean identity
 - Emotional storytelling with real people
