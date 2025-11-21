@@ -6,6 +6,15 @@ markdown
 ### 🏆 "Chilean Knows" Campaign
 **825,000 reach** | **45,000 reactions** | **12,000 shares**
 
+### 🍲 Traditional Chilean Stew Campaign
+![Chilean Stew Campaign](../assets/traditional-chilean-stew-850k-reach.jpg)
+
+**850,000 reach** | **High engagement** | **Cultural authenticity**
+
+*"Not all stews are the same. Discover our traditional rib stew recipe here."*
+
+*Campaign highlighting authentic Chilean cuisine that achieved massive organic reach through cultural relevance.*
+
 ### 🔥 "Neighborhood Traditions"  
 **620,000 reach** | **38,000 comments** | **8,500 shares**
 
