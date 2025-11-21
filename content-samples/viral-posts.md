@@ -17,7 +17,7 @@
 
 
 ### 👵 "We Love Our Grandmas" Campaign
-![We Love Our Grandmas Campaign](../assets/grandmas-family-campaign.jpg)
+![Chilean Merengue Cake](../assets/chilean-merengue-cake.jpg)
 
 **Cultural relevance** | **Family values** | **Emotional storytelling**
 **Who's guilty of leaving lipstick marks on our cheeks? Our lovely and adorable grandmas. Share this image if you love grandmothers' affection!**
