@@ -3,7 +3,7 @@ markdown
 
 ## Most Successful Posts
 
-### 🏆 "The Chilean Knows" Campaign
+### 🏆 "Chilean Knows" Campaign
 **825,000 reach** | **45,000 reactions** | **12,000 shares**
 
 ### 🔥 "Neighborhood Traditions"  
