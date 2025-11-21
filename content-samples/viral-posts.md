@@ -11,6 +11,7 @@ markdown
 
 markdown
 ### 👵 "We Love Our Grandmas" Campaign
+grandmas-family-campaign.jpg
 
 **Cultural relevance** | **Family values** | **Emotional storytelling**
 
