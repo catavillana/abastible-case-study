@@ -8,20 +8,7 @@
 
 *Example of our authentic Chilean family content that built deep community connections.*
 
-### 🎂 Traditional Chilean Merengue Cake
-![Chilean Merengue Cake](../assets/chilean-merengue-cake.jpg)
-**2,000+ likes** | **High engagement** | **Cultural content**
 
-*"Merengue and dulce de leche cake decorated with delicious colorful sprinkles... just like old times. Remember? Here's the recipe!"*
-
-### 🎂 Traditional Chilean Meringue Cake
-![Chilean Meringue Cake](../assets/chilean-merengue-cake.jpg)
-
-**2,000+ likes** | **High engagement** | **Cultural content**
-
-*"Meringue and dulce de leche cake decorated with delicious colorful sprinkles... just like old times. Remember? Here's the recipe!"*
-
-*Authentic Chilean dessert content that generated high engagement through nostalgia and traditional flavors.*
 
 ## Why This Content Worked
 - Cultural relevance to Chilean identity
