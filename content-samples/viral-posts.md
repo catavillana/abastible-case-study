@@ -14,7 +14,7 @@
 [View original post on Facebook]([https://facebook.com/your-post-link-1](https://www.facebook.com/AbastibleCL/photos/pb.100064571626869.-2207520000/651187368361657/?type=3)) → *See 2,300+ comments sharing family stories*
 
 ### 🎂 Traditional Chilean Merengue Cake  
-![Chilean Merengue Cake](../assets/merengue-cake.jpg)
+![Chilean Merengue Cake](../assets/chilean-merengue-cake.jpg)
 **2,000+ likes** | **High engagement** | **Cultural content**
 
 *"Merengue and dulce de leche cake decorated with delicious colorful sprinkles... just like old times. Remember? Here's the recipe!"*
